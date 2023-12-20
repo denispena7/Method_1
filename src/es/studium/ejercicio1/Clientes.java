@@ -1,6 +1,6 @@
 package es.studium.ejercicio1;
 
-public class Clientes
+public class Clientes extends Persona
 {
 
 	public static void main(String[] args)
